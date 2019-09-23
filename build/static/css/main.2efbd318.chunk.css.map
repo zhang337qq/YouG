@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBAGI,WACJ,CAEA,IACI,aACJ","file":"main.2efbd318.chunk.css","sourcesContent":["html,\r\nbody,\r\n#root {\r\n    height: 100%;\r\n}\r\n\r\nimg {\r\n    display: block;\r\n}"]}
